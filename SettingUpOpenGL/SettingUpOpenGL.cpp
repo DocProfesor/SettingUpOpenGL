@@ -47,6 +47,8 @@ float g_fRotate3 = 0.0f;
 std::clock_t g_PreviousTicks;
 std::clock_t g_CurrentTicks;
 
+//Test comment
+
 struct float2
 {
 	float2(float _x = 0.0f, float _y = 0.0f) : x(_x), y(_y) {}
