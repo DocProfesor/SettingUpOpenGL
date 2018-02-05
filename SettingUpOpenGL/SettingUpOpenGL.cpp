@@ -2,15 +2,15 @@
 //
 
 #include "stdafx.h"
-#include "stdlib.h"
+//#include "stdlib.h"
 #include <iostream>
 #include "SettingUpOpenGL.h"
 #include "GL\glut.h"
 #include "GL\freeglut.h"
 #include <ctime>
-#include <shellapi.h> // ?
+//#include <shellapi.h> // ?
 #include <cmath>
-#include <math.h> 
+//#include <math.h>
 
 #define M_E 2.71828182845904523536
 #define M_LOG2E 1.44269504088896340736
